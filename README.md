@@ -12,7 +12,8 @@ An end-to-end data science project that combines rigorous statistical inference 
 
 ## Live Dashboard
 
-Deploy link: *(add your Streamlit Community Cloud URL here after deployment)*
+
+deploy link : https://202618041insurance-charges.streamlit.app
 
 ---
 
